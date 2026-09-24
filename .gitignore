@@ -1,0 +1,34 @@
+# Python
+venv/
+newsflash-env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Runtime state
+newsflash.db
+.firstrun
+.background_enabled
+
+# Secrets / local configuration
+.env
+.env.*
+!.env.example
+
+# Node
+frontend/node_modules/
+frontend/build/
+frontend/coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test / coverage
+coverage/
+htmlcov/

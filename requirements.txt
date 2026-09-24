@@ -1,0 +1,14 @@
+fastapi==0.141.1
+uvicorn[standard]==0.53.0
+apscheduler==3.11.3
+feedparser==6.0.14
+requests==2.34.2
+sqlalchemy==2.0.54
+spacy==3.8.16
+pygame==2.6.1
+pystray==0.19.5
+Pillow==12.3.0
+plyer==2.1.0
+python-dotenv==1.2.3
+pytest==9.1.1
+httpx==0.28.1

@@ -1,0 +1,42 @@
+{
+  "notification_threshold": 6,
+  "poll_interval_seconds": 60,
+  "categories": {
+    "current_affairs": {
+      "enabled": true,
+      "priority": 9
+    },
+    "ai_ml": {
+      "enabled": true,
+      "priority": 10
+    },
+    "tech": {
+      "enabled": true,
+      "priority": 8
+    },
+    "business": {
+      "enabled": true,
+      "priority": 7
+    },
+    "science": {
+      "enabled": true,
+      "priority": 7
+    },
+    "sports": {
+      "enabled": false,
+      "priority": 3
+    },
+    "entertainment": {
+      "enabled": false,
+      "priority": 3
+    }
+  },
+  "custom_keywords": [
+    "AI",
+    "LLM",
+    "software",
+    "Python",
+    "cloud"
+  ],
+  "sound_enabled": true
+}
