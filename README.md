@@ -2,7 +2,13 @@
 
 **Personalised Real-Time News Intelligence System**
 
+![NewsFlash Dashboard](docs/screenshots/dashboard.png)
+
 NewsFlash is a Windows desktop application that aggregates news from RSS feeds and an optional NewsData.io API, scores articles for personal relevance, stores them locally, and surfaces high-priority stories through a React + Vite dashboard and Windows notifications.
+
+## API Documentation
+
+![NewsFlash API](docs/screenshots/api-docs.png)
 
 > **Portfolio project:** designed for local use on Windows. It is not a production news service.
 
